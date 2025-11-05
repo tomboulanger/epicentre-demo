@@ -10,7 +10,7 @@ Elle permet de structurer et gérer les **domaines d’activité**, **métiers**
 
 ## 🚀 Objectif
 
-Epicentre vise à offrir une solution centralisée et intuitive pour :
+Une solution centralisée et intuitive pour :
 
 - Organiser les métiers et domaines d’expertise
 - Gérer efficacement les compétences clés par profil
@@ -35,7 +35,7 @@ Epicentre vise à offrir une solution centralisée et intuitive pour :
 - Association automatique des compétences selon les métiers exercés
 - Import et export des données candidats
 
-### 🔹 Gestion des candidats
+### 🔹 Gestion des documents
 - Gestion des documents (CV, lettre motivation, etc..)
 - Système sécurisé
 
